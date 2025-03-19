@@ -1,0 +1,19 @@
+# Ignore environment files
+.env
+
+# Ignore virtual environment
+storycomparison/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore large files from Hugging Face & PyTorch
+*.bin
+*.ckpt
+*.h5
+*.pt
+*.onnx
+
+# Ignore any system-specific files
+.DS_Store
+Thumbs.db
