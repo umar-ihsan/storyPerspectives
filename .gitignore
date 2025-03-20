@@ -17,3 +17,4 @@ __pycache__/
 # Ignore any system-specific files
 .DS_Store
 Thumbs.db
+.vercel

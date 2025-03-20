@@ -5,9 +5,6 @@
         "src": "api/main.py",
         "use": "@vercel/python"
       }
-    ],
-    "env": {
-      "HF_HOME": "@hf_home"
-    }
+    ]
   }
   
